@@ -22,14 +22,8 @@ isugle = False # javaskriptuli comelclase
 print(name +" "+ surname +" "+ str(age) +" "+ str(height)) 
 
 
+
 #stringi aris brwyalebci moqceuli simboloebi
-
-
-
-
-
-
-
 
 
 #print(tipe(age))
@@ -37,14 +31,3 @@ print(name +" "+ surname +" "+ str(age) +" "+ str(height))
 #print(tipe(surname))
 #print(tipe(height))
 #print(tipe(knows_programming))
-
-
-
-
-
-
-
-
-
-
-

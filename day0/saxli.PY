@@ -7,6 +7,7 @@ speed(30)
 
 width(7)
 color("blue")
+
 forward(400)
 left(90)
 
@@ -175,9 +176,9 @@ color("yellow")
 width(150)
 forward(30)
 color("black")
+
 color("yellow")
-      
-      
+
       
       
       
